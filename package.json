@@ -1,3 +1,4 @@
+
 {
   "name": "fakefolio",
   "version": "1.0.0",
@@ -21,5 +22,8 @@
   "homepage": "https://github.com/MolyGitHub/fakefolio#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "v8.11.4"
   }
 }
